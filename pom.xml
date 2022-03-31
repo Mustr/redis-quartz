@@ -10,7 +10,7 @@
   
   <properties>
   	<servlet-version>4.0.0</servlet-version>
-  	<spring-version>5.0.0.RELEASE</spring-version>
+  	<spring-version>5.3.18</spring-version>
   	<asp-version>1.8.0</asp-version>
   	<quartz-version>2.3.0</quartz-version>
   	<log4j2-version>2.11.0</log4j2-version>
